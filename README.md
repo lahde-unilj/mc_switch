@@ -3,7 +3,7 @@ Modelling of magnetocaloric device comprising static thermal switches
 
 Please acknowledge mc_switch by citing paper Ferrofluidic thermal switch in a magnetocaloric device: https://doi.org/10.1016/j.isci.2022.103779
 
-The usage of the code is presented in our STAR protocol article (will be published soon).
+The usage of the code is presented in our STAR protocol article (DOI: 10.1016/j.xpro.2022.101576).
 
 The code comprises two scripts, one-thread script runcycles.py and multiple-thread script runcycles_hpc.py, and 9 other modules that are imported into the scripts.
 
